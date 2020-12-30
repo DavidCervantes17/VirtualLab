@@ -417,8 +417,8 @@ h3 {
 /* line 28, ../../Arafath/CL/December/233. Startup/HTML/scss/_btn.scss */
 .boxed-btn3 {
   /* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#0181f5+0,5db2ff+100 */
-  background: #615CFD;
-  color: #fff;
+  background: #2b4257;
+  color: #e3ebf2;
   display: inline-block;
   padding: 12px 33px;
   font-family: "Muli", sans-serif;
@@ -430,7 +430,7 @@ h3 {
   -moz-border-radius: 30px;
   border-radius: 30px;
   text-align: center;
-  color: #fff !important;
+  color: #e3ebf2 !important;
   text-transform: capitalize;
   -webkit-transition: 0.5s;
   -moz-transition: 0.5s;
@@ -441,8 +441,8 @@ h3 {
 
 /* line 45, ../../Arafath/CL/December/233. Startup/HTML/scss/_btn.scss */
 .boxed-btn3:hover {
-  border: 1px solid #615CFD;
-  color: #615CFD !important;
+  border: 1px solid #2b4257;
+  color: #2b4257 !important;
   background: transparent;
 }
 
@@ -662,9 +662,9 @@ h3 {
 .section_title span {
   position: relative;
   z-index: 3;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 500;
-  color: #615CFD;
+  color: #2b4257;
   text-transform: capitalize;
   margin-bottom: 19px;
   display: block;
@@ -676,7 +676,7 @@ h3 {
   font-size: 40px;
   line-height: 52px;
   font-weight: 400;
-  color: #1F1F1F;
+  color: #2b4257;
   position: relative;
   z-index: 0;
   padding-bottom: 15px;
@@ -708,7 +708,7 @@ h3 {
 /* line 37, ../../Arafath/CL/December/233. Startup/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 16px;
-  color: #727272;
+  color: #88a9c3;
   line-height: 28px;
   margin-bottom: 0;
   font-weight: 400;
@@ -723,12 +723,12 @@ h3 {
 
 /* line 51, ../../Arafath/CL/December/233. Startup/HTML/scss/_section_title.scss */
 .section_title.white_text h3 {
-  color: #fff;
+  color: #e3ebf2;
 }
 
 /* line 54, ../../Arafath/CL/December/233. Startup/HTML/scss/_section_title.scss */
 .section_title.white_text span {
-  color: #fff;
+  color: #2b4257;
   padding-top: 0;
 }
 
@@ -1144,14 +1144,14 @@ h3 {
   content: "";
   height: 3px;
   width: 100%;
-  background: #615CFD;
+  background: #345e7d;
   bottom: 0;
   left: 0;
 }
 
 /* line 1, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.png);
+  background-image: url(../img/banner/bann.png);
 }
 
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
@@ -1190,7 +1190,7 @@ h3 {
 
 /* line 27, ../../Arafath/CL/December/233. Startup/HTML/scss/_slider.scss */
 .slider_area .single_slider .slider_text h3 {
-  color: #FFF;
+  color: #e3ebf2;
   font-family: "Roboto", sans-serif;
   font-size: 78px;
   font-weight: 400;
@@ -1670,9 +1670,10 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area {
-  background: #1F1F1F;
+  background: #6da7cc;
   position: relative;
 }
+
 
 /* line 4, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area::before {
@@ -1767,7 +1768,7 @@ h3 {
 
 /* line 58, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area .section_title .mid_text {
-  color: #C9C9C9;
+  color: #e3ebf2;
   font-size: 16px;
   font-weight: 400;
   margin-bottom: 14px;
@@ -1775,7 +1776,7 @@ h3 {
 
 /* line 64, ../../Arafath/CL/December/233. Startup/HTML/scss/_about.scss */
 .about_area .section_title .last_text {
-  color: #C9C9C9;
+  color: #e3ebf2;
   font-size: 18px;
   font-weight: 400;
   margin-bottom: 44px;
@@ -2678,6 +2679,20 @@ h3 {
   border-radius: 5px;
 }
 
+.service_area .single_service1 {
+  padding: 48px 35px 45px 35px;
+  border: 2px solid #E8E8E8;
+  background-color: #e3ebf2;
+  -webkit-transition: 0.3s;
+  -moz-transition: 0.3s;
+  -o-transition: 0.3s;
+  transition: 0.3s;
+  margin-bottom: 30px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+
 @media (min-width: 768px) and (max-width: 991px) {
   /* line 11, ../../Arafath/CL/December/233. Startup/HTML/scss/_service.scss */
   .service_area .single_service {
@@ -2689,7 +2704,7 @@ h3 {
 .service_area .single_service h3 {
   font-size: 24px;
   font-weight: 400;
-  color: #1F1F1F;
+  color: #345e7d;
   margin-top: 29px;
   margin-bottom: 13px;
 }
@@ -2703,7 +2718,7 @@ h3 {
 
 /* line 33, ../../Arafath/CL/December/233. Startup/HTML/scss/_service.scss */
 .service_area .single_service p {
-  color: #727272;
+  color: #88a9c3;
   font-size: 16px;
   font-weight: 400;
   line-height: 30px;
@@ -2712,7 +2727,7 @@ h3 {
 
 /* line 40, ../../Arafath/CL/December/233. Startup/HTML/scss/_service.scss */
 .service_area .single_service:hover {
-  border: 2px solid #615CFD;
+  border: 2px solid #2b4257;
 }
 
 /* line 1, ../../Arafath/CL/December/233. Startup/HTML/scss/_video.scss */
@@ -2937,8 +2952,8 @@ h3 {
 
 /* line 78, ../../Arafath/CL/December/233. Startup/HTML/scss/_portfolio.scss */
 .portfolio_image_area .single_Portfolio .portfolio_hover .boxed-btn3:hover {
-  border: 1px solid #615CFD !important;
-  color: #615CFD !important;
+  border: 1px solid #2b4257 !important;
+  color: #2b4257 !important;
   background: #fff !important;
 }
 
@@ -3526,7 +3541,7 @@ h3 {
   right: 0;
   top: 0;
   height: 100%;
-  background-image: url(../img/work/work.png);
+  background-image: url(../img/work/hands.jpg);
   background-size: cover;
   background-position: center center;
   -webkit-border-radius: 20px 0 0 20px;
